@@ -34,7 +34,7 @@
     },
     {
       "name": "Depth First Search",
-      "short-name": "depth-first-search",
+      "short-name": "ai-depth-first-search",
       "repo": "https://github.com/virtual-labs/exp-depth-first-search-iiith",
       "tag": "v1.0.0",
       "deploy": true
