@@ -52,7 +52,8 @@
       "repo": "https://github.com/virtual-labs/exp-minimax-search-iiith",
       "tag": "v1.0.0",
       "deploy": true
-    }, {
+    },
+    {
       "name": "Construction of Bayesian Network",
       "short-name": "construction-bayesian-network",
       "repo": "https://github.com/virtual-labs/exp-construction-bayesian-network-iiith",
